@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ARProject",
+			"Path": "/Users/leeseungyong/Developer/Unreal Projects/FC_ARProject/ARProject/Source/ARProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ARProjectEditor",
+			"Path": "/Users/leeseungyong/Developer/Unreal Projects/FC_ARProject/ARProject/Source/ARProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

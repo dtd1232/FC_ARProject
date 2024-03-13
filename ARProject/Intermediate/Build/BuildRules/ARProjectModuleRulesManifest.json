@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/leeseungyong/Developer/Unreal Projects/FC_ARProject/ARProject/Source/ARProject/ARProject.Build.cs",
+		"/Users/leeseungyong/Developer/Unreal Projects/FC_ARProject/ARProject/Source/ARProject.Target.cs",
+		"/Users/leeseungyong/Developer/Unreal Projects/FC_ARProject/ARProject/Source/ARProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
